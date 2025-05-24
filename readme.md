@@ -47,10 +47,11 @@ An intelligent chatbot powered by **GPT-4**, built using **Python** and **MySQL*
    pip install -r requirements.txt
 
 4. **Set up MySQL Database**
+   ```bash
    Create your database and table.
    Update connection config in the code.
 
-5. **Run the chatbot**
+6. **Run the chatbot**
    ```bash
    streamlit run src/app.py or python main.py
 
@@ -63,5 +64,21 @@ An intelligent chatbot powered by **GPT-4**, built using **Python** and **MySQL*
 
 ```bash
 pip freeze > requirements.txt
+
+🧑‍💻 Author
+Pawan Kumar D
+🎓 CSE (Data Science), Presidency University
+📫 kumarpawan07099@gmail.com
+🌐 LinkedIn (www.linkedin.com/in/pawan-kumar-d-011029229)
+
+⭐️ Show Some Love
+If you found this project helpful or interesting:
+```bash
+⭐️ Star this repo
+🍴 Fork it
+📢 Share with peers
+
+
+
 
 
