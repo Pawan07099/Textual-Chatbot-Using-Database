@@ -66,7 +66,7 @@ An intelligent chatbot powered by **GPT-4**, built using **Python** and **MySQL*
 pip freeze > requirements.txt
 
 
-🧑‍💻**Author**
+## 🧑‍💻Author
 Pawan Kumar D
 🎓 CSE (Data Science), Presidency University
 📫 kumarpawan07099@gmail.com
