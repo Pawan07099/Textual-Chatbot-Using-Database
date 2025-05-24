@@ -62,20 +62,25 @@ An intelligent chatbot powered by **GPT-4**, built using **Python** and **MySQL*
 
 If you don’t have a `requirements.txt` yet, create one by running:
 
-   ```bash
-   pip freeze > requirements.txt
-
-👤 Author
-Pawan Kumar D
-🎓 CSE (Data Science), Presidency University
-📧 kumarpawan07099@gmail.com
-🌐 LinkedIn (www.linkedin.com/in/pawan-kumar-d-011029229)
+```bash
+pip freeze > requirements.txt
+```
 
 ---
 
-⭐ Show Some Love
+## 👤 Author
+
+**Pawan Kumar D**  
+🎓 CSE (Data Science), Presidency University  
+📧 kumarpawan07099@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/pawan-kumar-d-011029229)
+
+---
+
+## ⭐ Show Some Love
+
 If you found this project helpful or interesting:
-```bash
-   ⭐️ Star this repo
-   🍴 Fork it
-   📢 Share with peers
+
+- ⭐ Star this repo  
+- 🍴 Fork it  
+- 📢 Share with peers
