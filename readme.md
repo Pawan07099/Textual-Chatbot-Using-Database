@@ -34,5 +34,34 @@ An intelligent chatbot powered by **GPT-4**, built using **Python** and **MySQL*
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/textual-chatbot.git
+   git clone https://github.com/yourusername/Textual-Chatbot-Using-Database.git
    cd textual-chatbot
+
+2. **Create a Virtual Environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate ( # On Windows: venv\Scripts\activate)
+
+3. **Install required dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Set up MySQL Database**
+   Create your database and table.
+   Update connection config in the code.
+
+5. **Run the chatbot**
+   ```bash
+   streamlit run src/app.py or python main.py
+
+
+---
+
+## 🧠 Extra Tip:
+
+- If you don’t have a `requirements.txt` yet, create one by running:
+
+```bash
+pip freeze > requirements.txt
+
+
