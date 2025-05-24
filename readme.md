@@ -28,6 +28,7 @@ An intelligent chatbot powered by **GPT-4**, built using **Python** and **MySQL*
 
 ## 📸 Screenshots (Optional)
 
+![image](https://github.com/user-attachments/assets/5b683aed-424f-4e32-80e7-acbf97dc07f2)
 
 
 ## 🧪 How to Run the Project
